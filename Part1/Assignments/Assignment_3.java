@@ -12,5 +12,6 @@ public class Assignment_3 {
         } else{
             System.out.println(a+" is less than "+b);
         }
+        sc.close();
     }
 }

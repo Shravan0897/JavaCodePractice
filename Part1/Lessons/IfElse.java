@@ -9,5 +9,6 @@ public class IfElse {
         } else{
             System.out.println("Not Adult");
         }
+        sc.close();
     }
 }

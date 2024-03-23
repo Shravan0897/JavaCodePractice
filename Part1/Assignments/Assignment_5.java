@@ -48,5 +48,6 @@ public class Assignment_5 {
             default:
                 System.out.println("Inavlid month");
         }
+        sc.close();
     }
 }
