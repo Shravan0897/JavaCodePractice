@@ -12,5 +12,6 @@ public class Assignment_8 {
             System.out.println(n+"x"+i+"="+mult);
             i++;
         }
+        sc.close();
     }
 }

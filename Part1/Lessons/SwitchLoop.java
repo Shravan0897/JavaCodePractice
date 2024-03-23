@@ -20,5 +20,6 @@ public class SwitchLoop {
                 System.out.println("Invalid Button");
                 break;
         }
+        sc.close();
     }
 }

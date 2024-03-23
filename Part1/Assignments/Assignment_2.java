@@ -9,5 +9,6 @@ public class Assignment_2 {
         } else{
             System.out.println(num+" is odd number.");
         }
+        sc.close();
     }
 }

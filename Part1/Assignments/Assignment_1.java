@@ -15,5 +15,6 @@ public class Assignment_1 {
         System.out.println(a+"x8="+a*8);
         System.out.println(a+"x9="+a*9);
         System.out.println(a+"x10="+a*10);
+        sc.close();
     }
 }

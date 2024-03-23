@@ -17,5 +17,6 @@ public class Assignment_9 {
             }
             n = marks;
         } while( n != 0);
+        sc.close();
     }
 }

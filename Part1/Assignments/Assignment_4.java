@@ -30,5 +30,6 @@ public class Assignment_4 {
                 break;
             default: System.out.println("Number do not exist!");
         }
+        sc.close();
     }
 }
