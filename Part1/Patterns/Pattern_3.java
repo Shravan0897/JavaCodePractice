@@ -10,3 +10,8 @@ public class Pattern_3 {
         }
     }
 }
+//output
+// *
+// **
+// ***
+// ****

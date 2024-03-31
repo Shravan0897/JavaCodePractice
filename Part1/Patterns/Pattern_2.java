@@ -14,3 +14,8 @@ public class Pattern_2 {
         }
     }
 }
+//output
+// ****
+// *  *
+// *  *
+// ****
